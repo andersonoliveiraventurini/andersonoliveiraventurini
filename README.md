@@ -2,7 +2,7 @@
 
 *Senior PHP/Laravel Engineer · Solutions Architect · AI Agent Orchestration · UTC-3 · Open to Remote*
 
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-3-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Event--Driven-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
