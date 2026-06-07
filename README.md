@@ -2,49 +2,55 @@
 
 *Senior PHP/Laravel Engineer · Solutions Architect · AI Agent Orchestration · UTC-3 · Open to Remote*
 
-![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-3-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Event--Driven-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-OCI-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AI Orchestration](https://img.shields.io/badge/AI%20Orchestration-OpenClaw%20%C2%B7%20Claude%20%C2%B7%20Gemini-000000?style=for-the-badge)
-![Nearshore](https://img.shields.io/badge/Nearshore-UTC--3-27AE60?style=for-the-badge)
+![Time Zone](https://img.shields.io/badge/UTC--3-Full%20US%20Overlap-27AE60?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Professional%20Working-1B2A4A?style=for-the-badge)
+
+[![Esquadrão Classe A — Open Source](https://img.shields.io/badge/Open%20Source-Esquadr%C3%A3o%20Classe%20A%20·%20177%20AI%20Agents-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersonoliveiraventurini/esquadrao-classe-a)
 
 **→ Senior PHP/Laravel architect with 15+ years building mission-critical systems for one of Brazil's largest public research universities. Now solo-architecting an AI-driven ERP SaaS in production.**
 
+> **Available for** senior backend / software-architect roles and PHP/Laravel + AI-integration consulting.
+> **Engagement** — Full-time (FTE / EOR) · Contractor (PJ) · Project-based consulting
+> **Location** — Remote worldwide (based in Brazil, UTC-3) · open to relocation with sponsorship · hybrid across the Americas
+> **Markets** — United States · Europe · LATAM · full overlap with the US working day
+
 ---
 
-## Positioning
+## Snapshot
 
-This profile exists to provide the **evidence base** for what is claimed elsewhere — on [LinkedIn](https://www.linkedin.com/in/anderson-de-oliveira-venturini/) and in the published CVs. It is the technical record behind the institutional one: production systems, architectural choices, and the AI orchestration workflow that runs in production today.
+A senior PHP/Laravel architect who takes products from architecture to production **solo** — and an early, in-production practitioner of multi-LLM agent orchestration. This page is the technical record behind my [LinkedIn](https://www.linkedin.com/in/anderson-de-oliveira-venturini/): real systems, real federal regulators, real scale — most of it shipped under the constraints of a public institution and a confidential commercial client.
 
-Most of the systems I have built run inside a public university (UNICAMP) and a confidential commercial client, so the code itself is not open-source. What is verifiable from the outside:
+Because those run inside a public university (UNICAMP) and a confidential client, the source is closed. What you can verify from the outside:
 
 - 13+ continuous years at the same institution as senior engineer and solutions architect
 - Elected member of UNICAMP's IT Governance Council (GovTIC, 2024–2026 term)
 - M.Sc. candidate in Technology, Information and Communication Systems (UNICAMP, expected July 2026)
 - Visiting Professor and Technical Instructor roles in 2025 (UNASP, SENAC)
 - 60+ developers and 600+ administrative staff trained as UNICAMP instructor since 2019
+- **One fully open-source project** — [Esquadrão Classe A](https://github.com/andersonoliveiraventurini/esquadrao-classe-a), a public multi-agent orchestration marketplace you can install and inspect (detailed below)
 
 ---
 
-## The Brazilian Nearshore PHP/Laravel Case — Summary
+## Time-Zone & Collaboration Advantage
 
-Brazil at UTC-3 gives US clients a full working-day overlap and EU clients a productive morning sync — without the 24-hour async cycle that makes far-offshore models expensive in practice. Senior PHP/Laravel engineers trained in Brazil's public-sector and enterprise ecosystems match Central European technical depth at significantly lower rates.
+Based in Brazil at **UTC-3**, I work the same hours your team does — a **full overlap with the US working day** and a **productive morning sync with Europe** — without the 24-hour async lag of far-offshore models. The decisions that shape an architecture happen live, in the same conversation, not in a next-day email thread.
 
-| Dimension                            | Brazil (UTC-3)                | Eastern Europe (UTC+2) | India / Asia (UTC+5.5)       |
-| ------------------------------------ | ----------------------------- | ---------------------- | ---------------------------- |
-| **US working-day overlap**           | Full                          | 3–4 hours              | Near-zero                    |
-| **EU morning overlap**               | Full                          | Full                   | Partial                      |
-| **Cost vs. Western EU**              | 40–60% lower                  | 30–50% lower           | 60–70% lower                 |
-| **Senior PHP/Laravel depth**         | Public-sector + enterprise    | Strong                 | Variable at senior level     |
-| **Professional working English**     | Yes                           | Common                 | Variable                     |
-| **Government & compliance exposure** | NF-e, LGPD, federal API integ | Variable               | Variable                     |
-| **Direct communication model**       | Yes — ownership culture       | Strong                 | High interpretation overhead |
+| Dimension                  | What you get working with me                                                       |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| **US working-day overlap** | Full — same-day decisions, live pairing, no overnight handoff                      |
+| **EU morning overlap**     | Full morning window for syncs, reviews, and planning                               |
+| **Communication**          | Professional working English; direct, ownership-driven, low interpretation overhead |
+| **Seniority**              | 15+ years of mission-critical PHP/Laravel — architecture-level decisions, not ticket execution |
+| **Domain depth**           | Government, compliance and fiscal integration (NF-e, LGPD, federal APIs)           |
 
-> The differentiator is not being cheapest. It is being present — technically, linguistically, and culturally — when the architecture decision happens. That is what UTC-3 plus 13 years of mission-critical PHP/Laravel produces.
+> The differentiator is not cost. It is being present — technically, linguistically, and culturally — at the moment the architecture decision gets made. That is what UTC-3 plus 15 years of mission-critical PHP/Laravel produces.
 
 ---
 
@@ -73,7 +79,7 @@ Aggregated from active production systems as of June 2026:
 
 | Layer                       | Stack                                                                                  | Depth |
 | --------------------------- | -------------------------------------------------------------------------------------- | ----- |
-| **Backend / Architecture**  | PHP 8.x · Laravel · Laravel 12 · Service Classes · Form Objects · DDD · SOLID · PSR-12 | ★★★★★ |
+| **Backend / Architecture**  | PHP 8.x · Laravel 12 · Service Classes · Form Objects · DDD · SOLID · PSR-12 | ★★★★★ |
 | **Frontend (server-driven)**| Livewire 3 · Volt · FluxUI Pro · Blade · Tailwind CSS · Alpine.js                      | ★★★★☆ |
 | **Async & Messaging**       | RabbitMQ · Laravel Queues · Event-Driven Architecture · Redis · Laravel Octane         | ★★★★★ |
 | **RDBMS**                   | MySQL 8 · PostgreSQL · MariaDB · MSSQL Server · query optimization · N+1 prevention    | ★★★★★ |
@@ -137,6 +143,36 @@ Most of the systems below run inside a public university (UNICAMP) or a confiden
 | **English Proficiency Platform (UNICAMP)** | Multi-language proficiency-test system for master's and doctorate programs                       | Delivered as **lead of a 10-developer team**; GetNet payment gateway integration    | MongoDB · TypeScript · Docker                  |
 | **Library Management (UNICAMP)**      | End-to-end library platform in TypeScript                                                            | Delivered as **lead of a 5-developer team**                                         | TypeScript · MongoDB · Docker                  |
 | **Recent solo Laravel 12 (UNICAMP)**  | Two end-to-end systems in the last 12 months: graduate-program proficiency-exam platform and internal department management system | Both shipped end-to-end solo; in production                              | Laravel 12 · MySQL · Docker                    |
+| **Esquadrão Classe A (Open Source)**  | No public, runnable proof of the AI-orchestration competence claimed throughout this profile — the rest of the evidence base is closed-source | Shipped a public, MIT-licensed plugin marketplace — **13 squads · 177 specialist agents · 135 tasks · 28 workflows**; installable on Claude Code, Codex & opencode | Claude Code Plugins · Agent Skills · Python · MIT |
+
+---
+
+## Open Source — Esquadrão Classe A
+
+> **The proof you can install.** Everything else on this page runs behind a login — a public university, a confidential client. This one runs on your machine.
+
+Every profile claims AI fluency. Most of it is unverifiable. So I shipped the verification: **[Esquadrão Classe A](https://github.com/andersonoliveiraventurini/esquadrao-classe-a)** — a public, MIT-licensed plugin marketplace of orchestrated AI agent squads for the leading coding agents (**Claude Code, Codex, opencode**). It is the same multi-agent orchestration discipline I run in production, extracted into something a hiring team can clone, read, and run in under a minute.
+
+It is not a prompt collection. It is an architecture. Each squad is a plugin built around an **orchestrator** that diagnoses the request, routes it to the right specialist persona, executes the task, and gates the output against a quality checklist before delivery — the same diagnose → route → validate pattern that runs the production AI workflow below.
+
+| Metric                | Count | What it means for a hiring team                                              |
+| --------------------- | :---: | --------------------------------------------------------------------------- |
+| **Specialist squads** |  13   | Domain coverage: copywriting, branding, traffic, security, data, C-level advisory, and more |
+| **Specialist agents** |  177  | Each a fully-specified persona with frameworks, routing logic, and veto conditions |
+| **Executable tasks**  |  135  | Concrete, repeatable deliverables — not abstract prompts                     |
+| **Multi-agent workflows** |  28   | Composed pipelines that chain specialists end-to-end                         |
+
+```bash
+# Claude Code
+/plugin marketplace add andersonoliveiraventurini/esquadrao-classe-a
+/plugin install esquadrao-completo@esquadrao-classe-a    # all 13 squads
+
+# Codex / opencode
+git clone https://github.com/andersonoliveiraventurini/esquadrao-classe-a.git
+python scripts/install_skills.py                         # installs to ~/.agents/skills/
+```
+
+**Why it's here:** the rest of this profile asks a recruiter to trust the description of closed systems. This asks nothing. Clone it, install it, route a real task through it. The *AI Orchestration ★★★★☆* rating elsewhere on this page stops being a self-assessment and becomes a repository you can open. *(Open-source build; adapted content is credited under the repository NOTICE — MIT.)*
 
 ---
 
